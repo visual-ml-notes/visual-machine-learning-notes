@@ -5,6 +5,7 @@ In this repo I collect my conference & summer school notes - to prevent things g
 
 | Date | Name   |  Type   | Location |  Notes  |  Program  |
 | :----: |:----------:| :------:| :-----:| :----:| :----:|
+19-12 | NeuRIPS | Conference | Vancouver (Canada) | [Click](2019-12-NeuRIPS/) | [Click](2019-12-NeuRIPS/Program-NeuRIPS.pdf)
 19-09 | Bernstein | Conference | Berlin (Germany) | [Click](2019-09-Bernstein/) | [Click](2019-09-Bernstein/Program-1-Bernstein.png)
 19-09 | CCN | Conference | Berlin (Germany) | [Click](2019-09-CCN/) | [Click](2019-09-CCN/Program-1-CCN.png)
 19-08 | BMS | Summer School | Berlin (Germany) | [Click](2019-08-BMS/) | [Click](2019-08-BMS/Program-BMS.png)
