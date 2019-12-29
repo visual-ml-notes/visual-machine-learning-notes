@@ -1,7 +1,9 @@
-# A Collection of Conference & School Notes
+# A Collection of Conference & School Notes in Machine Learning
 ## Keeping Things in Structure
 
 In this repo I collect my conference & summer school notes - to prevent things getting messy. Feel free to have a look!
+
+![alt text](thumbnail.png)
 
 | Date | Name   |  Type   | Location |  Notes  |  Program  |
 | :----: |:----------:| :------:| :-----:| :----:| :----:|
