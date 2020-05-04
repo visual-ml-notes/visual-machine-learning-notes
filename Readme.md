@@ -7,7 +7,7 @@ In this repo I collect my visual conference & summer school notes - to prevent t
 
 | Date | Name   |  Type   | Location |  Notes  |  Program  |
 | :----: |:----------:| :------:| :-----:| :----:| :----:|
-19-12 | ICLR | Conference | Virtual | [Click](2020-04-ICLR/ICLR_compressed.pdf) | [Click](2020-04-ICLR/Program-ICLR.pdf)
+20-04 | ICLR | Conference | Virtual | [Click](2020-04-ICLR/ICLR_compressed.pdf) | [Click](2020-04-ICLR/Program-ICLR.pdf)
 19-12 | NeuRIPS | Conference | Vancouver (Canada) | [Click](2019-12-NeuRIPS/) | [Click](2019-12-NeuRIPS/Program-NeuRIPS.pdf)
 19-09 | Bernstein | Conference | Berlin (Germany) | [Click](2019-09-Bernstein/) | [Click](2019-09-Bernstein/Program-1-Bernstein.png)
 19-09 | CCN | Conference | Berlin (Germany) | [Click](2019-09-CCN/) | [Click](2019-09-CCN/Program-1-CCN.png)
