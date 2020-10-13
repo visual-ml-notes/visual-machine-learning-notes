@@ -1,9 +1,23 @@
 # A Collection of Conference & School Notes in Machine Learning
-## Keeping Things in Structure
 
-In this repo I collect my visual conference & summer school notes - to prevent things getting messy. Feel free to have a look and enjoy, [@RobertTLange](https://twitter.com/RobertTLange)!
+![shakir-note](docs/banner.png)
 
-![alt text](thumbnail.png)
+In this repo I collect my visual conference & summer school sketch notes - to prevent things getting messy. Feel free to have a look and enjoy, [@RobertTLange](https://twitter.com/RobertTLange)!
+
+## FAQs
+<img align="right" src="docs/shakir.jpeg" width="300">
+
+* Q: **What tablet do you use?**
+A: I use an iPad 12.9' with the new Apple Pencil. But you don't have to. There are many cheaper tablet which do the job and I have seen awesome handwritten notes.
+
+* Q: **What apps do you use?**
+A: I use notability for all the talk sketches and procreate for illustrations. But I have also heard many good things about GoodNotes. Have a look at my [recent blogpost](https://roberttlange.github.io/posts/2020/04/blog-post-11/) in which I discuss my personal Machine Learning Research-iPad setup.
+
+* Q: **Any advice on how to take notes?**
+A: Ask yourself what type of notes you are would like to come back to in a week, month, or year. Also have a look at [Natalia Vélez](https://twitter.com/natvelali). Her sketches are awesome! And practice on talks by great speakers. A well structured talk is way easier to summarise.
+
+* Q: **Is there a gallery of all your notes?**
+A: Yes, there is! Check out the Web UI [visual-ml-notes](https://visual-ml-notes.github.io/).
 
 | Date | Name   |  Type   | Location |  Notes  |  Program  |
 | :----: |:----------:| :------:| :-----:| :----:| :----:|
