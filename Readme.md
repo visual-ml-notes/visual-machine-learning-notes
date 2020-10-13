@@ -1,6 +1,6 @@
 # A Collection of Conference & School Notes in Machine Learning
 
-![shakir-note](docs/banner.png)
+![v-ml-notes-banner](docs/banner.png)
 
 In this repo I collect my visual conference & summer school sketch notes - to prevent things getting messy. Feel free to have a look and enjoy, [@RobertTLange](https://twitter.com/RobertTLange)!
 
@@ -18,6 +18,8 @@ A: Ask yourself what type of notes you are would like to come back to in a week,
 
 * Q: **Is there a gallery of all your notes?**
 A: Yes, there is! Check out the Web UI [visual-ml-notes](https://visual-ml-notes.github.io/).
+
+## Previously Sketched Events
 
 | Date | Name   |  Type   | Location |  Notes  |  Program  |
 | :----: |:----------:| :------:| :-----:| :----:| :----:|
