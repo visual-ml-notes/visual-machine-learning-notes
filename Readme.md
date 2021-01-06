@@ -19,13 +19,16 @@ A: Ask yourself what type of notes you are would like to come back to in a week,
 * Q: **Is there a gallery of all your notes?**
 A: Yes, there is! Check out the Web UI [visual-ml-notes](https://visual-ml-notes.github.io/).
 
+Finally, I also put together a [couple of slides](docs/slides_visual_ml_notes.pdf) describing my favorite aspects and journey of collecting the notes :hugs:
+
 ## Previously Sketched Events
 
 | Date | Name   |  Type   | Location |  Notes  |  Program  |
 | :----: |:----------:| :------:| :-----:| :----:| :----:|
+20-12 | NeurIPS | Conference | Virtual | [Click](2020-12-NeurIPS/) | [Click](https://neurips.cc/Conferences/2020)
 20-07 | MLSS | Summer School | Virtual | [Click](2020-07-MLSS/) | [Click](2020-07-MLSS/Program-MLSS-a.png)
 20-04 | ICLR | Conference | Virtual | [Click](2020-04-ICLR/ICLR_compressed.pdf) | [Click](2020-04-ICLR/Program-ICLR.pdf)
-19-12 | NeuRIPS | Conference | Vancouver (Canada) | [Click](2019-12-NeuRIPS/) | [Click](2019-12-NeuRIPS/Program-NeuRIPS.pdf)
+19-12 | NeurIPS | Conference | Vancouver (Canada) | [Click](2019-12-NeurIPS/) | [Click](2019-12-NeurIPS/Program-NeuRIPS.pdf)
 19-09 | Bernstein | Conference | Berlin (Germany) | [Click](2019-09-Bernstein/) | [Click](2019-09-Bernstein/Program-1-Bernstein.png)
 19-09 | CCN | Conference | Berlin (Germany) | [Click](2019-09-CCN/) | [Click](2019-09-CCN/Program-1-CCN.png)
 19-08 | BMS | Summer School | Berlin (Germany) | [Click](2019-08-BMS/) | [Click](2019-08-BMS/Program-BMS.png)
